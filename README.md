@@ -3,7 +3,7 @@
 # Platform Game
 Simple platform game made with Phaser.
 
-
+Install globally the following NPM packages: parcel-bundler & browser-sync
 
 To build: parcel watch game.js
 
